@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'zwd-book',
-  tagline: '学习，成长，强大',
+  tagline: '学习，成长，变得更强',
   url: 'https://zou-weidong.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'zou-weidong', // Usually your GitHub org/user name.
+  projectName: 'zwd-book', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
