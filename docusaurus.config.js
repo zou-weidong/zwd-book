@@ -69,9 +69,9 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '博客', position: 'right'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://zou-weidong.github.io/',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://zou-weidong.github.io/',
               },
             ],
           },
